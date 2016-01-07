@@ -1,0 +1,46 @@
+
+/* 
+    Created on : Dec 4, 2015, 11:05:49 PM
+    Author     : megha
+*/
+@media (max-width: 590px){
+    .img-thumbnail{
+        height: 130px;
+    }
+}
+#overlap{
+    height: 90px;
+}
+.internal_navbar>.nav{
+    background-color: white;
+    padding-left: 40%; 
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.nav-pills, .img-thumbnail {
+  position: absolute;
+}
+
+.img-thumbnail {
+  z-index: 1;
+}
+.internal_navbar>ul{
+    margin-top: 35px;
+    width: 93%;
+}
+.margin-span{
+    margin-top: 10px;
+}
+#showFriends{
+    display: none;
+    margin-top: 30px;
+}
+.pic-profile{
+    height: 160px;
+    width: 210px;
+}
+.pic-profile-search{
+    height: 36px;
+    width: 36px;
+}

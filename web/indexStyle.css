@@ -1,0 +1,26 @@
+body{
+    background-image: url("images/blu_stripes.png");
+}
+.padding{
+    padding-top: 10px;
+}
+.navbar-default .navbar-brand{
+    color: white;
+}
+.navbar{
+    background-color: darkcyan;
+    border-radius: 0;
+}
+.navbar label{
+    color: white;
+}
+.form-control{
+    border-radius: 0;
+}
+.radius{
+    border-radius: 5px;
+}
+.padding-input{
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
