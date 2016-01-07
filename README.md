@@ -1,2 +1,2 @@
-# CustomBook-SideProject-
-A Java Web Application for a facebook.
+# CustomBook-
+A social network like facebook written in Java.
